@@ -53,3 +53,4 @@ To reproduce Figure 2:
 1. Open MATLAB.
 2. Navigate to the repository folder.
 3. Run:
+Figure2_LearningRate.m
