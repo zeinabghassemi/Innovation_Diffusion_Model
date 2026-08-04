@@ -36,3 +36,4 @@ The script generates:
 ### Running the code
 
 Open MATLAB and run:
+Figure1_IntergroupInteraction.m
