@@ -2,11 +2,11 @@
 
 ### Script
 
-`Figure2_SI_IncomeDistribution.m`
+`Figure1,2_SI_IncomeDistribution.m`
 
 ### Description
 
-This script reproduces Supplementary Figure S2 and evaluates the robustness of the model outcomes under different assumptions about income distributions.
+This script reproduces Supplementary Figures S1 and S2 and evaluates the robustness of the model outcomes under different assumptions about income distributions.
 
 The analysis considers two aspects of income heterogeneity:
 
@@ -55,4 +55,4 @@ The script generates figures showing:
 ### Running the code
 
 Run:
-Figure2_SI_IncomeDistribution.m
+Figure1,2_SI_IncomeDistribution.m
