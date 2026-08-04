@@ -1,6 +1,6 @@
 %% Supplementary Figure S2: Income Distribution Sensitivity Analysis
 %
-% This script reproduces Supplementary Figure S2.
+% This script reproduces Supplementary Figures S1 and S2.
 %
 % The analysis investigates how assumptions regarding the income
 % distribution influence innovation adoption and equilibrium disparity.
